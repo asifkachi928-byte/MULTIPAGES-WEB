@@ -49,6 +49,9 @@ To become a skilled **Full-Stack Web Developer** and build real-world projects.
 
 * GitHub: [MuhammadUmar-078](https://github.com/MuhammadUmar-078)
 
+### 📈 What I'm Doing
+
+
 **Learn → Build → Deploy → Improve → Repeat 🔁**
 
 ---
